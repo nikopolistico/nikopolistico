@@ -3,19 +3,19 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" width="100%" alt="Niko R. Polistico — software developer and MSIT student in AI and Data Analytics at Caraga State University. ASCII portrait with a terminal-style profile summary.">
+  <img src="./dark.svg" width="100%" alt="Niko R. Polistico — software developer from Butuan City, Philippines. ASCII portrait with a terminal-style profile summary.">
 </picture>
 
 </div>
 
 <br>
 
-Hi, I'm **Niko** — a software developer from **Butuan City, Philippines**, and a DOST scholar taking my **MSIT (Artificial Intelligence & Data Analytics)** at Caraga State University. I build web systems with Vue and Supabase, and my graduate research is on **explainable AI for classroom behavior analytics**.
+Hi, I'm **Niko** — a **software developer** from **Butuan City, Philippines**. I build web systems with Vue, TypeScript, and Supabase, and I'm a BSIT cum laude graduate of Caraga State University.
 
 ## 🧭 Focus
 
-- **Computer vision & explainable AI** — skeleton-based pose estimation, spatio-temporal graph models, and making their predictions interpretable
 - **Web systems** — Vue 3 + TypeScript front ends on Supabase / PostgreSQL back ends
+- **Databases** — PostgreSQL functions, stored procedures, views, and indexing
 - **Blockchain** — permissioned ledgers with Hyperledger Fabric
 - **Applied AI** — LLMs and retrieval-augmented generation (RAG)
 
@@ -23,7 +23,6 @@ Hi, I'm **Niko** — a software developer from **Butuan City, Philippines**, and
 
 | Project | What it is | Built with |
 |---|---|---|
-| **ClassSense** | MSIT thesis — an explainable AI framework for classroom behavior analytics | YOLO Pose → ST-GCN → SHAP + attention visualization |
 | **Decentralized Crime Reporting Platform** | BSIT thesis — crime reporting on a simulated blockchain implementation | Hyperledger Fabric |
 | **DTR System** | Daily Time Record system with QR-based time-in / time-out | Vue 3, TypeScript, Vite, Supabase, PostgreSQL |
 | **PaymentsMonitoring** | Payments monitoring web app | Vue, TypeScript, Supabase |
@@ -35,7 +34,6 @@ Hi, I'm **Niko** — a software developer from **Butuan City, Philippines**, and
 
 ## 🎓 Education
 
-- **MSIT, Track 1: Artificial Intelligence & Data Analytics** — Caraga State University Graduate School · *DOST Scholar*
 - **BSIT, Cum Laude (2026)** — Caraga State University, Butuan City
 - Civil Service eligibility — Honor Graduate
 
@@ -57,9 +55,6 @@ Hi, I'm **Niko** — a software developer from **Butuan City, Philippines**, and
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/YOLO_Pose-111F68?style=flat-square&logo=ultralytics&logoColor=white" alt="YOLO Pose">
-  <img src="https://img.shields.io/badge/ST--GCN-7C3AED?style=flat-square" alt="ST-GCN">
-  <img src="https://img.shields.io/badge/SHAP-0891B2?style=flat-square" alt="SHAP">
   <img src="https://img.shields.io/badge/Hyperledger_Fabric-2F3134?style=flat-square&logo=hyperledger&logoColor=white" alt="Hyperledger Fabric">
 </p>
 
