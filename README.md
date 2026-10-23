@@ -10,7 +10,8 @@
 
 <br>
 
-I'm **Niko R. Polistico**, a **software developer** 
+I'm **Niko R. Polistico**, a **software developer** based in **Butuan City, Philippines**, and a BSIT *cum laude* graduate of Caraga State University. I design and develop web-based systems — from database design to the user interface — with a growing focus on applied AI and blockchain.
+
 ## 🧭 Focus
 
 - **Web systems** — Vue 3 + TypeScript front ends on Supabase / PostgreSQL back ends
