@@ -151,7 +151,6 @@
 <path d="M52 478.5H448" stroke="#334155" stroke-opacity="0.55" stroke-dasharray="2 4"/>
 <rect x="160.1" y="490" width="179.8" height="24" rx="12" fill="#0F172A" fill-opacity="0.55" stroke="#A78BFA" stroke-opacity=".5"/>
 <text x="250" y="506" class="m" font-size="11" font-weight="600" letter-spacing="1.2" text-anchor="middle" fill="#A78BFA">[ SOFTWARE DEVELOPER ]</text>
-<text x="250" y="536" class="m" font-size="13" text-anchor="middle" fill="#CBD5E1">Building web systems with Vue &amp; Supabase</text>
 <text x="155" y="563" class="m" font-size="12" textLength="180" lengthAdjust="spacing" fill="#94A3B8"><tspan fill="#34D399">~/niko</tspan> $ ./render --ascii</text>
 <rect x="339" y="552" width="7" height="14" fill="#22D3EE"><animate attributeName="opacity" values="1;0" dur="1.05s" calcMode="discrete" repeatCount="indefinite"/></rect>
 </g>
