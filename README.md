@@ -10,7 +10,7 @@
 
 <br>
 
-Hi, I'm **Niko** — a **software developer** from **Butuan City, Philippines**. I build web systems with Vue, TypeScript, and Supabase, and I'm a BSIT cum laude graduate of Caraga State University.
+Hi, I'm **Niko** — a **software developer** from **Butuan City, Philippines**, and a BSIT cum laude graduate of Caraga State University. I build web systems with **Vue, TypeScript, and Supabase**, and I also build with **Python** (Streamlit and Django), **Express.js**, **Nuxt.js**, and **Docker**. Day to day I work with **Claude (Anthropic)**, **ChatGPT Pro**, **Gemini**, and **Google Colab Pro**.
 
 ## 🧭 Focus
 
@@ -54,12 +54,26 @@ Label-efficient maturity and quality grading of dragon fruit using **self-superv
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
-  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" alt="Nuxt">
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
   <img src="https://img.shields.io/badge/Hyperledger_Fabric-2F3134?style=flat-square&logo=hyperledger&logoColor=white" alt="Hyperledger Fabric">
+</p>
+
+### 🤖 AI Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude">
+  <img src="https://img.shields.io/badge/ChatGPT_Pro-10A37F?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT Pro">
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
+  <img src="https://img.shields.io/badge/Google_Colab_Pro-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab Pro">
 </p>
 
 ## 📊 GitHub Activity
