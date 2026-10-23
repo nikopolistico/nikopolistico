@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Niko 👋
 
-<!--
-**nikopolistico/nikopolistico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSIT student (AI & Data Analytics) at Caraga State University · Software developer
 
-Here are some ideas to get you started:
+- 🔭 Working on: explainable AI for classroom behavior analytics
+- 🛠️ Stack: Vue 3, TypeScript, Supabase, PostgreSQL, Python
+- 🔐 Interests: computer vision, machine learning, blockchain
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+## Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikopolistico&show_icons=true)
