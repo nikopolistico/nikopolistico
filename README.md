@@ -17,15 +17,19 @@ Hi, I'm **Niko** — a **software developer** from **Butuan City, Philippines**.
 - **Web systems** — Vue 3 + TypeScript front ends on Supabase / PostgreSQL back ends
 - **Databases** — PostgreSQL functions, stored procedures, views, and indexing
 - **Blockchain** — permissioned ledgers with Hyperledger Fabric
-- **Applied AI** — LLMs and retrieval-augmented generation (RAG)
+- **Applied AI** — self-supervised learning, LLMs, and retrieval-augmented generation (RAG)
 
 ## 🛠️ Featured Projects
 
-| Project | What it is | Built with |
-|---|---|---|
-| **Decentralized Crime Reporting Platform** | BSIT thesis — crime reporting on a simulated blockchain implementation | Hyperledger Fabric |
-| **DTR System** | Daily Time Record system with QR-based time-in / time-out | Vue 3, TypeScript, Vite, Supabase, PostgreSQL |
-| **PaymentsMonitoring** | Payments monitoring web app | Vue, TypeScript, Supabase |
+### Decentralized Crime Reporting Platform
+*A Decentralized Crime Reporting Platform: Utilizing Hyperledger Fabric for a Simulated Blockchain Implementation*
+
+Crime reporting built on a simulated blockchain implementation with **Hyperledger Fabric**.
+
+### Self-Supervised Dragon Fruit Grading
+*Self-Supervised Learning: Label-Efficient Maturity and Quality Grading of Dragon Fruit with an Integrated Inventory System for Caraga Growers*
+
+Label-efficient maturity and quality grading of dragon fruit using **self-supervised learning**, paired with an **inventory system** for growers in Caraga.
 
 ## 💼 Experience
 
